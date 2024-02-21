@@ -1,0 +1,7 @@
+D:\.Estudo\c# - udemy\exercicios\Sexto Projeto\Sexto Projeto\bin\Debug\Sexto Projeto.exe.config
+D:\.Estudo\c# - udemy\exercicios\Sexto Projeto\Sexto Projeto\bin\Debug\Sexto Projeto.exe
+D:\.Estudo\c# - udemy\exercicios\Sexto Projeto\Sexto Projeto\bin\Debug\Sexto Projeto.pdb
+D:\.Estudo\c# - udemy\exercicios\Sexto Projeto\Sexto Projeto\obj\Debug\Sexto Projeto.csproj.AssemblyReference.cache
+D:\.Estudo\c# - udemy\exercicios\Sexto Projeto\Sexto Projeto\obj\Debug\Sexto Projeto.csproj.CoreCompileInputs.cache
+D:\.Estudo\c# - udemy\exercicios\Sexto Projeto\Sexto Projeto\obj\Debug\Sexto Projeto.exe
+D:\.Estudo\c# - udemy\exercicios\Sexto Projeto\Sexto Projeto\obj\Debug\Sexto Projeto.pdb
